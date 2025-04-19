@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:message_board/home/chat_page.dart';
+import 'chat_page.dart'; // Ensure this page exists
 
 class MessageBoardsPage extends StatelessWidget {
   @override
